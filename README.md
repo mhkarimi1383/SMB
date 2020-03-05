@@ -7,7 +7,7 @@ Social Media Button is Example of Social Buttons
 ```bash
 Git clone https://github.com/javadimoghadam/SMB.git
 cd SMB/
-start index.htm
+start index.htmt
 ```
 
 ## Contributing
